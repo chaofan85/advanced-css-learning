@@ -9,6 +9,7 @@
   "author": "Chao Fan",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.9.0"
+    "node-sass": "^4.9.0",
+    "hoek": "~>4.2.1"
   }
 }
