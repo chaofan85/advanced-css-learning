@@ -36,20 +36,19 @@
 html {
   font-size: 62.5%; }
 
-body {
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
-  /* font-size: 16px; */
-  line-height: 1.7;
-  color: #777;
-  padding: 3rem;
-  box-sizing: border-box; }
-
 .heading-primary {
   color: #fff;
   text-transform: uppercase;
   margin-bottom: 6rem;
   /* backface-visibility: hidden; */ }
+  .heading-primary body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    /* font-size: 16px; */
+    line-height: 1.7;
+    color: #777;
+    padding: 3rem;
+    box-sizing: border-box; }
   .heading-primary--main {
     display: block;
     font-size: 6rem;
