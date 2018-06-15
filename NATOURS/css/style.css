@@ -330,6 +330,14 @@ body {
   .feature-box:hover {
     transform: translateY(-1.5rem) scale(1.03); }
 
+.footer {
+  background-color: #333;
+  padding: 10rem 0;
+  font-size: 1.4rem; }
+  .footer__logo {
+    width: 15rem;
+    height: auto; }
+
 .form__group:not(:last-child) {
   margin-bottom: 2rem; }
 
